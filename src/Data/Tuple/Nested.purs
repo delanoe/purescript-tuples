@@ -3,7 +3,7 @@
 -- |
 -- | Nested tuples arise naturally in product combinators. You shouldn't
 -- | represent data using nested tuples, but if combinators you're working with
--- | create them, utilities in this module will allow to to more easily work
+-- | create them, utilities in this module will allow to more easily work
 -- | with them, including translating to and from more traditional product types.
 -- |
 -- | ```purescript
